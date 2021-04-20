@@ -2,7 +2,7 @@
 
 Project Kelompok 6 RPL 4623
 
-Nama Tim :                                  Role:
+Nama Tim and                                 Role :
 1. Kukuh Yoga Pradana (A11.2018.11111)    
 2. Yosa Arya Wigiyanto (A11.2018.11113)   Business & System Analyst
 3. Diva Madani S. (A11.2018.11021)        UI Designer
